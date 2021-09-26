@@ -12,6 +12,7 @@ public class Main {
         double[] tab = new double[5];
         for (int i = 0; i < tab.length; i++){
             tab[i] += 5.5;
+
         }
 
 
