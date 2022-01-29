@@ -20,9 +20,13 @@ public class Main {
         int liczbaB = 2;
         float liczbaX = 12.4f;
         float liczbaY = 2.3f;
+        String s = "Ala ma kota";
 
 
         /*   zad.1 zadeklaruj i zainicjalizuj zmienne różnych typów i wyświetl w konsoli (im więcej tym lepiej ;) ) */
+
+        System.out.println("To jest liczba A: " + liczbaA + ", to jest liczba B: " + liczbaB + ", a to jest string s: " + s);
+
 
         /*
         *    zad.2 Napisz kod który będzie wykonywał operacje: dodawania, odejmowania,
